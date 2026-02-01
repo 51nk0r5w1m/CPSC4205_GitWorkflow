@@ -1,7 +1,7 @@
 # Student Information Card
 # This program displays a formatted profile card using box-drawing characters.
 # It prints student details such as name, major, email, graduation year,
-# hometown, and areas of interest in a clean, readable layout.
+# hometown, and areas of interest in a clean, readable layout using boxdrawing characters.
 
 # -------------------------------
 # Student personal information
