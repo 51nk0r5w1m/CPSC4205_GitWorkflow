@@ -21,8 +21,8 @@ interest = "AppSec/DevSecOps/Identity"
 
 title = "STUDENT INFORMATION CARD"
 
-width = 50          # inside width
-inner = width - 2   # accounts for the 1 space on each side inside the box
+width = 50          # width of horizontal border (between corners)
+inner = width - 2   # usable content width (accounts for 1 space on each side inside the box)
 
 # -------------------------------
 # Output the formatted card
